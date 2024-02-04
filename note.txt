@@ -1,0 +1,19 @@
+Git and Github
+----------------
+
+Github
+-------
+1 Store Code 
+2 Share Code
+3 Website Hosting
+4 Version control System
+5 Tool called Git
+------------------------
+
+Git is a tool to do operations in Github
+------------------------------------
+the storage space used for github is Remote Repository
+the storage space used for git is local Repository
+the computer storage is local storage
+
+
